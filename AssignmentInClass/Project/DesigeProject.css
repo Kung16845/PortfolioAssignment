@@ -1,0 +1,45 @@
+h1 {
+    background-color: rgb(44, 187, 243);
+    color: black;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 0;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: rgb(44, 187, 243);
+    color: black;
+    text-align: left;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.project-item {
+    margin-top: 20px;
+    border: 2px solid #cce7ff;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #e6f7ff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-item h3 {
+    background-color: #cce7ff;
+    padding: 5px;
+    border-radius: 5px;
+}
+.project-item img{
+    width: 1500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.project-item p {
+    padding-left: 10px;
+}
+#code 
+{
+    width: 500px;
+}
